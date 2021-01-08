@@ -4,7 +4,7 @@ arch:
 language: python
 sudo: false
 cache: pip
-dist: trusty
+dist: xenial 
 group: edge
 python:
    - "2.7"
